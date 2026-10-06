@@ -1,0 +1,9 @@
+flask
+openpyxl
+requests
+python-dotenv
+qrcode
+reportlab
+pillow
+python-dateutil
+ 
